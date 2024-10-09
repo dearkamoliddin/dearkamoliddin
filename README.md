@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Django Rest API**
 
-- 👨‍💻 All of my projects are: [https://github.com/dearkamoliddin?tab=repositories](https://github.com/dearkamoliddin?tab=repositories)
+- 👨‍💻 All of my projects are available here: [https://github.com/dearkamoliddin?tab=repositories](https://github.com/dearkamoliddin?tab=repositories)
 
 - 💬 Ask me about **Python, Django, RestApi**
 
